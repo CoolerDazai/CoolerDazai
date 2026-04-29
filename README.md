@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoolerDazai or Lisa
-- 👀 I’m interested in  big data analysis 
+- 👀 I’m interested in  data analysis 
 - 🌱 I’m currently learning Pandas for Python 
 - 💞️ I’m looking to collaborate on doing analysis on trends in fanfiction on Ao3
 - 📫 How to reach me You can reach me on discord @cassandra.cain
